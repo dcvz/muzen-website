@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "B82TF96752.io.dcvz.Muzen",
+        "paths": [ "/session/*"]
+      }
+    ]
+  }
+}
